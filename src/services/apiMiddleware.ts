@@ -29,7 +29,6 @@ export default async function apiMiddleware({
       method,
       headers,
       data,
-      // ........
     });
   } catch (er: any) {
     // ........
